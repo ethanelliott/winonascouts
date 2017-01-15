@@ -1,0 +1,3 @@
+<p class="text">The Winona Scout Group was founded in 1921! We have been providing exciting programs for Winona youth for many years. Our group welcomes both <b>boys</b> and <b>girls</b> and operates <b class="beavers">Beaver Scouts (5-7)</b>, <b class="cubs">Cub Scouts (8-11)</b>, <b class="scouts">Scouts (11-14)</b>, <b class="venturers">Venturer Scouts (15-18)</b>, and <b class="rovers">Rover Scouts (19-21)</b>.</p><br>
+<p class="text">Our Group meets at the Winona Scout Hut located in Winona Park, 1327 Barton Street, September to May for the Beavers and Cubs, and September to June for the Scouts and Venturers.</p><br>
+<p class="text">Scouts and Venturers often have summer activities including week long camps and community service activities.</p>

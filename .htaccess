@@ -1,0 +1,22 @@
+# Do not remove this line, otherwise mod_rewrite rules will stop working
+RewriteBase /
+ErrorDocument 404 /404
+ErrorDocument 500 /500
+
+#Rewrite Engine
+RewriteEngine On
+RewriteRule ^about/?$ about.php
+RewriteRule ^beavers/?$ beavers.php
+RewriteRule ^cubs/?$ cubs.php
+RewriteRule ^scouts/?$ scouts.php
+RewriteRule ^venturers/?$ venturers.php
+RewriteRule ^rovers/?$ rovers.php
+RewriteRule ^fundraising/?$ fundraising.php
+RewriteRule ^volunteer/?$ volunteer.php
+RewriteRule ^calendar/?$ calendar.php
+RewriteRule ^contact/?$ contact.php
+RewriteRule ^logout/?$ login/logout.php
+RewriteRule ^register/?$ login/?action=register
+RewriteRule ^registernow/?$ login/register.php
+RewriteRule ^user/?$ login/user.php
+RewriteRule ^edit/?$ pageedit/

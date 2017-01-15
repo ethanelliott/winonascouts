@@ -1,0 +1,9 @@
+<p class="heading accent2c" style="margin-top:20px;">Fundraising</p>
+<p class="text">As this is the single largest factor to the success of our groups programs your participation is required in our fundraising activities; the overall group schedules major ones each year and individual sections may also have activity scheduled to offset a major activity like a week long camp or national jamboree.</p>
+<p class="text">Our group activities include:</p>
+<p class="sub-heading tab2">Apple Day</p>
+<p class="text tab2">Apple Day is the traditional fundraising event that started right here in Canada! Through Apple Day youth receive donations from the public and present an apple in appreciation. Our group has a designated area to canvass including neighborhood stores, door-to-door and other traveled areas.</p>
+<p class="text tab2">Money raised during Apple Day (as with our other fundraisers) go to improving the Scouting program through registration fee subsidies, outings, camping equipment, training and many other endeavors.</p>
+<br />
+<p class="sub-heading tab2">Scout Popcorn</p>
+<p class="text tab2">Our largest program - this years goal is $ 11,000 in Sales (more detail to follow)</p>

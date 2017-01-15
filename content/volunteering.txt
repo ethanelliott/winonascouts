@@ -1,0 +1,27 @@
+<p class="heading accent2c" style="margin-top:20px;">Volunteering</p>
+<img class="content_image" src="imgs/volunteer.png" />
+<p class="sub-heading">Do you...</p>
+<ul class="circle">
+<li>Enjoy the outdoors?</li>
+<li>Have the desire to learn new skills?</li>
+<li>Like to make new friends?</li>
+<li>Want to spend quality time with your children?</li>
+</ul>
+<p class="text">If you said yes to the above then you have found the right place!</p>
+<br />
+<p class="sub-heading">What does Scouting do for youth?</p>
+<p class="text">Scouting volunteers have provided generations of Canadian youth with a first opportunity to sleep in a tent, to experience leadership and to build self-reliance and self-confidence. Volunteer dedication, resourcefulness and enthusiasm are vital to Scouting.</p>
+<br />
+<p class="sub-heading">Why is Scouting a great volunteer experience?</p>
+<p class="text">Many people are looking for ways to develop skills that help them achieve personal and professional goals. Scouting has a long tradition of providing such opportunities.</p>
+<ul class="circle">
+<li>A full trained leader has taken approximately 50 hours of on-line and experiential learning in understanding youth, program planning, leadership and risk management</li>
+<li>Scouting offers many opportunities to develop marketing, communication, financial management and fundraising skills</li>
+<li>Scouts Canada also offers excellent volunteer development courses</li>
+</ul>
+<br />
+<p class="sub-heading">How do I volunteer with 1st Winona Scouts?</p>
+<p class="text">Becoming a volunteer with 1st Winona Scouts is a multi-step process and we are here to help you every step of the way. The process includes a personal interview, the provision of three personal references, and a Police Record Check. With one-on-one help from an experienced coach, you'll participate in a three-month orientation and probation period where you'll learn all the basics to help you provide great programs for youth.</p>
+<p class="text">Once you become a leader, you're provided with further training and tools and support to help you on your way. You'll attend courses and workshops, receive Scouting Life magazine and can access helpful online support resources.</p>
+<p class="text">If you can commit 12 - 14 hours per month, you can make a difference in the lives of many kids, and help shape a better world for tomorrow.</p>
+<p class="text">Get the process started by talking to one of your child’s Leaders or by contacting the Group Commissioner.</p>
